@@ -18,11 +18,15 @@ dotnet new console
 
 ## 4. Install Azure CLI
 
-`brew update && brew install azure-cli`
+```
+brew update && brew install azure-cli
+```
 
 ## 5. Login to Azure
 
-`az login --use-device-code`
+```
+az login --use-device-code
+```
 
 ## 6. Install neccessary Azure packages
 
@@ -34,4 +38,6 @@ dotnet add package Azure.ResourceManager.Resources
 
 ## 7. Run Program.cs code
 
-`dotnet run`
+```
+dotnet run
+```
