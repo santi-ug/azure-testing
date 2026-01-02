@@ -28,3 +28,4 @@
 /Users/santi/Documents/code/study/azure/create-resource-group/obj/Debug/net10.0/create-resource-group.pdb
 /Users/santi/Documents/code/study/azure/create-resource-group/obj/Debug/net10.0/create-resource-group.genruntimeconfig.cache
 /Users/santi/Documents/code/study/azure/create-resource-group/obj/Debug/net10.0/ref/create-resource-group.dll
+/Users/santi/Documents/code/study/azure/create-resource-group/obj/Debug/net10.0/create-resource-group.sourcelink.json

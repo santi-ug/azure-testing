@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("create-resource-group")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d97a2b9943b7d46ba51d7fb3b6fbeebc35489ae9")]
 [assembly: System.Reflection.AssemblyProductAttribute("create-resource-group")]
 [assembly: System.Reflection.AssemblyTitleAttribute("create-resource-group")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
